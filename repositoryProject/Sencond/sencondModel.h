@@ -9,5 +9,7 @@
 #import <Foundation/Foundation.h>
 
 @interface sencondModel : NSObject
+//昵称
+@property(copy,nonatomic)NSString * name;
 
 @end
