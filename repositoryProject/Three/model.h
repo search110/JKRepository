@@ -10,4 +10,6 @@
 
 @interface model : NSObject
 
+@property(copy,nonatomic)NSString * test1;
+
 @end
