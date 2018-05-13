@@ -12,6 +12,8 @@
 
 //新值
 @property(assign,nonatomic)BOOL isValue;
+//添加值
+@property(copy,nonatomic)NSString * _newValues;
 
 @end
 
