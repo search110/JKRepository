@@ -10,6 +10,9 @@
 
 @interface newViewController ()
 
+//新值
+@property(assign,nonatomic)BOOL isValue;
+
 @end
 
 @implementation newViewController
