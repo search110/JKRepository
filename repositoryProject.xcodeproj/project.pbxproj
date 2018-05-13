@@ -17,6 +17,7 @@
 		4D316A7720A717540014B324 /* repositoryProjectUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D316A7620A717540014B324 /* repositoryProjectUITests.m */; };
 		4D316A8620A7DE050014B324 /* newViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D316A8520A7DE050014B324 /* newViewController.m */; };
 		4D316A8A20A7DE3B0014B324 /* OtherViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D316A8920A7DE3B0014B324 /* OtherViewController.m */; };
+		4D316AA220A8092A0014B324 /* sencondModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D316AA120A8092A0014B324 /* sencondModel.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		4D316A8520A7DE050014B324 /* newViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = newViewController.m; sourceTree = "<group>"; };
 		4D316A8820A7DE3B0014B324 /* OtherViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OtherViewController.h; sourceTree = "<group>"; };
 		4D316A8920A7DE3B0014B324 /* OtherViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OtherViewController.m; sourceTree = "<group>"; };
+		4D316AA020A8092A0014B324 /* sencondModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sencondModel.h; sourceTree = "<group>"; };
+		4D316AA120A8092A0014B324 /* sencondModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sencondModel.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +116,7 @@
 				4D316A5620A717530014B324 /* ViewController.m */,
 				4D316A8420A7DE050014B324 /* newViewController.h */,
 				4D316A8520A7DE050014B324 /* newViewController.m */,
+				4D316A9F20A808FC0014B324 /* Sencond */,
 				4D316A8720A7DE240014B324 /* newFile */,
 				4D316A5820A717530014B324 /* Main.storyboard */,
 				4D316A5B20A717530014B324 /* Assets.xcassets */,
@@ -148,6 +152,15 @@
 				4D316A8920A7DE3B0014B324 /* OtherViewController.m */,
 			);
 			path = newFile;
+			sourceTree = "<group>";
+		};
+		4D316A9F20A808FC0014B324 /* Sencond */ = {
+			isa = PBXGroup;
+			children = (
+				4D316AA020A8092A0014B324 /* sencondModel.h */,
+				4D316AA120A8092A0014B324 /* sencondModel.m */,
+			);
+			path = Sencond;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -284,6 +297,7 @@
 				4D316A8A20A7DE3B0014B324 /* OtherViewController.m in Sources */,
 				4D316A6220A717530014B324 /* main.m in Sources */,
 				4D316A5420A717530014B324 /* AppDelegate.m in Sources */,
+				4D316AA220A8092A0014B324 /* sencondModel.m in Sources */,
 				4D316A8620A7DE050014B324 /* newViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
