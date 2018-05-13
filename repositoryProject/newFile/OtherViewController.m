@@ -11,6 +11,8 @@
 @interface OtherViewController ()
 
 @property(copy,nonatomic)NSString * other_Property;
+//添加属性
+@property(assign,nonatomic)BOOL isadd;
 
 @end
 
