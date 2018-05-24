@@ -26,4 +26,6 @@
 
 @property(copy,nonatomic)NSString * test8;
 
+@property(copy,nonatomic)NSString * test9;
+
 @end
