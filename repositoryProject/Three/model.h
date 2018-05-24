@@ -18,4 +18,8 @@
 
 @property(copy,nonatomic)NSString * test4;
 
+@property(copy,nonatomic)NSString * test5;
+
+@property(copy,nonatomic)NSString * test6;
+
 @end
