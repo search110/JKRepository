@@ -12,6 +12,9 @@
 
 @property(copy,nonatomic)NSString * vc1;
 
+<<<<<<< HEAD
 @property(copy,nonatomic)NSString * vc2;
 
+=======
+>>>>>>> 497b18f... 添加model的test11属性值 和VC1 属性值
 @end
