@@ -30,4 +30,6 @@
 
 @property(copy,nonatomic)NSString * test10;
 
+@property(copy,nonatomic)NSString * test11;
+
 @end

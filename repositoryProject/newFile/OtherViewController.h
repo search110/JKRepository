@@ -10,4 +10,6 @@
 
 @interface OtherViewController : UIViewController
 
+@property(copy,nonatomic)NSString * vc1;
+
 @end
