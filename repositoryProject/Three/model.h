@@ -30,9 +30,6 @@
 
 @property(copy,nonatomic)NSString * test10;
 
-<<<<<<< HEAD
 @property(copy,nonatomic)NSString * test11;
 
-=======
->>>>>>> 32da253... 添加属性10
 @end
