@@ -12,4 +12,6 @@
 
 @property(copy,nonatomic)NSString * vc1;
 
+@property(copy,nonatomic)NSString * vc2;
+
 @end
